@@ -1,0 +1,27 @@
+.smallimg{
+height: 220px;
+width: 100% !important;
+border-radius: 5px !important;
+}
+.bs{
+    background-color:darkkhaki;
+    width: 95% !important;
+    height: 350px;
+    margin-top: 30px;
+   
+    border-radius: 15px;
+    
+
+
+    
+}
+.backg{
+   
+    background-image: url('../../Images/HomeBg.jpg');
+    background-attachment: fixed;
+   
+   
+}
+.bigimg{
+    height: 400px;
+}
