@@ -82,7 +82,7 @@ function Assessment({ assessment }) {
 
 
                 </div>
-                <input  type='submit' value='Upload'  className='btn btn-secondary mb-3 ms-1 mt-5' onSubmit={submit}></input>
+                <input  type='submit' value='Upload Pdf'  className='btn btn-secondary mb-3 ms-1 mt-5' onSubmit={submit}></input>
                 {
                 user.isAdmin?(
                 <>
